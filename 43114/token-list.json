@@ -1,0 +1,17 @@
+{
+    "name": "Whitelisted Swap Tokens",
+    "tokens": [
+        {
+            "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "name": "Wrapped AVAX",
+            "symbol": "AVAX",
+            "decimals": 18
+        },
+        {
+            "address": "0x60781c2586d68229fde47564546784ab3faca982",
+            "name": "Pangolin",
+            "symbol": "PNG",
+            "decimals": 18
+        }
+    ]
+}
