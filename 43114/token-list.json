@@ -6,15 +6,18 @@
             "name": "Wrapped AVAX",
             "symbol": "AVAX",
             "decimals": 18,
-            "median": true
+            "median": true,
+            "created_at": 820
         },
         {
-            "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
-            "name": "TetherToken",
-            "symbol": "USDt",
+            "address": "0xde3A24028580884448a5397872046a019649b084",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "bridged": true,
             "decimals": 6,
             "median": true,
-            "stable": true
+            "stable": true,
+            "created_at": 30132
         },
         {
             "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
@@ -23,7 +26,17 @@
             "bridged": true,
             "decimals": 6,
             "median": true,
-            "stable": true
+            "stable": true,
+            "created_at": 2749893
+        },
+        {
+            "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "name": "TetherToken",
+            "symbol": "USDt",
+            "decimals": 6,
+            "median": true,
+            "stable": true,
+            "created_at": 4663628
         },
         {
             "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
@@ -31,7 +44,8 @@
             "symbol": "USDC",
             "decimals": 6,
             "median": true,
-            "stable": true
+            "stable": true,
+            "created_at": 7388829
         },
         {
             "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
@@ -40,7 +54,18 @@
             "decimals": 6,
             "bridged": true,
             "median": true,
-            "stable": true
+            "stable": true,
+            "created_at": 3311254
+        },
+        {
+            "address": "0xba7deebbfc5fa1100fb055a87773e1e99cd3507a",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "bridged": true,
+            "median": true,
+            "stable": true,
+            "created_at": 30104
         },
         {
             "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
@@ -49,21 +74,24 @@
             "decimals": 18,
             "bridged": true,
             "median": true,
-            "stable": true
+            "stable": true,
+            "created_at": 2749892
         },
         {
             "address": "0x60781c2586d68229fde47564546784ab3faca982",
             "name": "Pangolin",
             "symbol": "PNG",
             "decimals": 18,
-            "median": true
+            "median": true,
+            "created_at": 57360
         },
         {
             "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
             "name": "JoeToken",
             "symbol": "JOE",
             "decimals": 18,
-            "median": true
+            "median": true,
+            "created_at": 2486442
         }
     ]
 }
