@@ -7,7 +7,9 @@
             "symbol": "AVAX",
             "decimals": 18,
             "median": true,
-            "created_at": 820
+            "created_at": 820,
+            "category": "Protocol",
+            "color": "232,65,66"
         },
         {
             "address": "0xde3A24028580884448a5397872046a019649b084",
@@ -18,7 +20,9 @@
             "decimals": 6,
             "median": true,
             "stable": true,
-            "created_at": 30132
+            "created_at": 30132,
+            "category": "Stable",
+            "color": "3,172,132"
         },
         {
             "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
@@ -29,7 +33,9 @@
             "decimals": 6,
             "median": true,
             "stable": true,
-            "created_at": 2749893
+            "created_at": 2749893,
+            "category": "Stable",
+            "color": "3,172,132"
         },
         {
             "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
@@ -38,7 +44,9 @@
             "decimals": 6,
             "median": true,
             "stable": true,
-            "created_at": 4663628
+            "created_at": 4663628,
+            "category": "Stable",
+            "color": "3,172,132"
         },
         {
             "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
@@ -47,7 +55,9 @@
             "decimals": 6,
             "median": true,
             "stable": true,
-            "created_at": 7388829
+            "created_at": 7388829,
+            "category": "Stable",
+            "color": "39,117,202"
         },
         {
             "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
@@ -58,7 +68,9 @@
             "bridge": "AB",
             "median": true,
             "stable": true,
-            "created_at": 3311254
+            "created_at": 3311254,
+            "category": "Stable",
+            "color": "39,117,202"
         },
         {
             "address": "0xba7deebbfc5fa1100fb055a87773e1e99cd3507a",
@@ -69,7 +81,9 @@
             "bridge": "AEB",
             "median": true,
             "stable": true,
-            "created_at": 30104
+            "created_at": 30104,
+            "category": "Algorithmic Stable",
+            "color": "246,198,92"
         },
         {
             "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
@@ -80,7 +94,9 @@
             "bridge": "AB",
             "median": true,
             "stable": true,
-            "created_at": 2749892
+            "created_at": 2749892,
+            "category": "Algorithmic Stable",
+            "color": "246,198,92"
         },
         {
             "address": "0x60781c2586d68229fde47564546784ab3faca982",
@@ -88,14 +104,18 @@
             "symbol": "PNG",
             "decimals": 18,
             "median": true,
-            "created_at": 57360
+            "created_at": 57360,
+            "category": "DEX",
+            "color": "181,94,36"
         },
         {
             "address": "0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4",
             "name": "Avalaunch",
             "symbol": "XAVA",
             "decimals": 18,
-            "created_at": 1431370
+            "created_at": 1431370,
+            "category": "Launchpad",
+            "color": "251,69,90"
         },
         {
             "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
@@ -103,21 +123,27 @@
             "symbol": "JOE",
             "decimals": 18,
             "median": true,
-            "created_at": 2486442
+            "created_at": 2486442,
+            "category": "DEX",
+            "color": "243,90,81"
         },
         {
             "address": "0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
             "name": "Yak Token",
             "symbol": "YAK",
             "decimals": 18,
-            "created_at": 2920530
+            "created_at": 2920530,
+            "category": "Yield Optimizer",
+            "color": "56,204,115"
         },
         {
             "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
             "name": "BENQI",
             "symbol": "QI",
             "decimals": 18,
-            "created_at": 2943022
+            "created_at": 2943022,
+            "category": "Lending",
+            "color": "94,216,255"
         }
     ]
 }
