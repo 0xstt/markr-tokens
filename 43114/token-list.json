@@ -9,7 +9,8 @@
             "median": true,
             "created_at": 820,
             "category": "Protocol",
-            "color": "232,65,66"
+            "color": "232,65,66",
+            "website": "https://www.avax.network/"
         },
         {
             "address": "0xde3A24028580884448a5397872046a019649b084",
@@ -22,7 +23,8 @@
             "stable": true,
             "created_at": 30132,
             "category": "Stable",
-            "color": "3,172,132"
+            "color": "3,172,132",
+            "website": "https://tether.to/"
         },
         {
             "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
@@ -35,7 +37,8 @@
             "stable": true,
             "created_at": 2749893,
             "category": "Stable",
-            "color": "3,172,132"
+            "color": "3,172,132",
+            "website": "https://tether.to/"
         },
         {
             "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
@@ -46,7 +49,8 @@
             "stable": true,
             "created_at": 4663628,
             "category": "Stable",
-            "color": "3,172,132"
+            "color": "3,172,132",
+            "website": "https://tether.to/"
         },
         {
             "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
@@ -57,7 +61,8 @@
             "stable": true,
             "created_at": 7388829,
             "category": "Stable",
-            "color": "39,117,202"
+            "color": "39,117,202",
+            "website": "https://www.centre.io/"
         },
         {
             "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
@@ -70,7 +75,8 @@
             "stable": true,
             "created_at": 3311254,
             "category": "Stable",
-            "color": "39,117,202"
+            "color": "39,117,202",
+            "website": "https://www.centre.io/"
         },
         {
             "address": "0xba7deebbfc5fa1100fb055a87773e1e99cd3507a",
@@ -83,7 +89,20 @@
             "stable": true,
             "created_at": 30104,
             "category": "Algorithmic Stable",
-            "color": "246,198,92"
+            "color": "246,198,92",
+            "website": "https://makerdao.com/"
+        },
+        {
+            "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC.e",
+            "decimals": 8,
+            "bridged": true,
+            "bridge": "AB",
+            "created_at": 2749888,
+            "category": "Protocol",
+            "color": "40,34,54",
+            "website": "https://www.wbtc.network/"
         },
         {
             "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
@@ -96,7 +115,20 @@
             "stable": true,
             "created_at": 2749892,
             "category": "Algorithmic Stable",
-            "color": "246,198,92"
+            "color": "246,198,92",
+            "website": "https://makerdao.com/"
+        },
+        {
+            "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "name": "Wrapped Ether",
+            "symbol": "WETH.e",
+            "decimals": 18,
+            "bridged": true,
+            "bridge": "AB",
+            "created_at": 2749895,
+            "category": "Protocol",
+            "color": "46,48,48",
+            "website": "https://weth.io/"
         },
         {
             "address": "0x60781c2586d68229fde47564546784ab3faca982",
@@ -106,7 +138,8 @@
             "median": true,
             "created_at": 57360,
             "category": "DEX",
-            "color": "181,94,36"
+            "color": "181,94,36",
+            "website": "https://pangolin.exchange/"
         },
         {
             "address": "0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4",
@@ -115,7 +148,8 @@
             "decimals": 18,
             "created_at": 1431370,
             "category": "Launchpad",
-            "color": "251,69,90"
+            "color": "251,69,90",
+            "website": "https://avalaunch.app/"
         },
         {
             "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
@@ -125,7 +159,8 @@
             "median": true,
             "created_at": 2486442,
             "category": "DEX",
-            "color": "243,90,81"
+            "color": "243,90,81",
+            "website": "https://traderjoexyz.com/"
         },
         {
             "address": "0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
@@ -134,7 +169,8 @@
             "decimals": 18,
             "created_at": 2920530,
             "category": "Yield Optimizer",
-            "color": "56,204,115"
+            "color": "56,204,115",
+            "website": "https://yieldyak.com/"
         },
         {
             "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
@@ -143,7 +179,28 @@
             "decimals": 18,
             "created_at": 2943022,
             "category": "Lending",
-            "color": "94,216,255"
+            "color": "94,216,255",
+            "website": "https://benqi.fi/"
+        },
+        {
+            "address": "0xb27c8941a7df8958a1778c0259f76d1f8b711c35",
+            "name": "Kalao Token",
+            "symbol": "KLO",
+            "decimals": 18,
+            "created_at": 4386521,
+            "category": "NFT Marketplace",
+            "color": "27,50,94",
+            "website": "https://kalao.io/"
+        },
+        {
+            "address": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+            "name": "GMX",
+            "symbol": "GMX",
+            "decimals": 18,
+            "created_at": 8352150,
+            "category": "DEX",
+            "color": "44,124,223",
+            "website": "https://gmx.io/"
         }
     ]
 }
