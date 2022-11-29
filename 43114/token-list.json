@@ -201,6 +201,18 @@
             "category": "DEX",
             "color": "44,124,223",
             "website": "https://gmx.io/"
+        },
+        {
+            "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+            "name": "Bitcoin",
+            "symbol": "BTC.b",
+            "decimals": 8,
+            "bridged": true,
+            "bridge": "AB",
+            "created_at": 14909409,
+            "category": "Protocol",
+            "color": "247,147,26",
+            "website": "https://bridge.avax.network/"
         }
     ]
 }
